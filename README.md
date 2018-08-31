@@ -13,3 +13,5 @@
 [graphql-tools](https://graphql-faas.github.io/graphql-tools-designs-docs)
 
 [graphql-java](https://graphql-faas.github.io/graphql-java)
+
+[benthos-streaming-service](https://graphql-faas.github.io/benthos/)
