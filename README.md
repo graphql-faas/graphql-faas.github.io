@@ -1,5 +1,7 @@
 # 开放技术文档
 
+[docs](https://graphql-faas.github.io/)
+
 项目
 
 [faaslang](https://graphql-faas.github.io/faaslang)
