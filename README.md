@@ -17,3 +17,5 @@
 [graphql-java](https://graphql-faas.github.io/graphql-java)
 
 [benthos-streaming-service](https://graphql-faas.github.io/benthos/)
+
+[apache flink](https://graphql-faas.github.io/Apache-Flink-Docs-ZH-translation/)
