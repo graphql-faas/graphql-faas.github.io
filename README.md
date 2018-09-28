@@ -21,3 +21,5 @@
 [apache flink](https://graphql-faas.github.io/Apache-Flink-Docs-ZH-translation/)
 
 [helm](https://graphql-faas.github.io/helm/)
+
+[networkservicemesh](https://graphql-faas.github.io/networkservicemesh/)
