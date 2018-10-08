@@ -21,3 +21,5 @@
 [helm](https://graphql-faas.github.io/helm/)
 
 [networkservicemesh](https://graphql-faas.github.io/networkservicemesh/)
+
+[opentracing](https://graphql-faas.github.io/specification/)
