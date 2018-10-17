@@ -25,3 +25,5 @@
 [opentracing](https://graphql-faas.github.io/specification/)
 
 [buildpack](https://graphql-faas.github.io/spec/)
+
+[thymeleaf-docs](https://graphql-faas.github.io/thymeleaf-docs/)
