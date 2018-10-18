@@ -27,3 +27,5 @@
 [buildpack](https://graphql-faas.github.io/spec/)
 
 [thymeleaf-docs](https://graphql-faas.github.io/thymeleaf-docs/)
+
+[opencensus](https://graphql-faas.github.io/opencensus-specs/)
