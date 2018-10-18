@@ -29,3 +29,5 @@
 [thymeleaf-docs](https://graphql-faas.github.io/thymeleaf-docs/)
 
 [opencensus](https://graphql-faas.github.io/opencensus-specs/)
+
+[distributed-tracing](https://graphql-faas.github.io/distributed-tracing/)
