@@ -31,3 +31,7 @@
 [opencensus](https://graphql-faas.github.io/opencensus-specs/)
 
 [distributed-tracing](https://graphql-faas.github.io/distributed-tracing/)
+
+[cncd-spec/yaml] (https://graphql-faas.github.io/cncd/spec/yaml/)
+
+[cncd-spec/ir] (https://graphql-faas.github.io/cncd/spec/ir/)
