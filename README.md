@@ -32,6 +32,6 @@
 
 [distributed-tracing](https://graphql-faas.github.io/distributed-tracing/)
 
-[cncd-spec/yaml] (https://graphql-faas.github.io/cncd/spec/yaml/)
+[cncd-spec/yaml](https://graphql-faas.github.io/cncd/spec/yaml/)
 
-[cncd-spec/ir] (https://graphql-faas.github.io/cncd/spec/ir/)
+[cncd-spec/ir](https://graphql-faas.github.io/cncd/spec/ir/)
