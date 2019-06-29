@@ -37,3 +37,5 @@
 [cncd-spec/ir](https://graphql-faas.github.io/cncd/spec/ir/)
 
 [lua-xpath](https://apicaddyway.github.io/lua-xpath/doc/us/)
+
+[omnibus-gitlab](https://rongfengliang.github.io/omnibus-gitlab/)
